@@ -1,7 +1,9 @@
 # Go_Board_Project
 ## General
 Goal: Create a machine vision tool that detects and classifies Go board game pieces through visual input
+
 Language: C++ and Sketch
+
 Tools: OpenCV and Arduino
 
 ## Open CV component
